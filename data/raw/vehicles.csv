@@ -1,0 +1,17 @@
+Vehicle_ID,Vehicle_Type,Capacity,Vehicle_Status,Maintenance_Date
+VEH-DL01-1024,Multi-Axle 32ft,25.0,Active,2026-09-15
+VEH-DL01-2048,20ft Container,16.0,Active,2026-09-18
+VEH-DL01-3310,Multi-Axle 32ft,25.0,Maintenance,2026-10-01
+VEH-MH04-8921,40ft High Cube,30.0,Maintenance,2026-09-29
+VEH-MH04-4512,Multi-Axle 32ft,25.0,Active,2026-09-22
+VEH-MH04-6721,Reefer (Cold Chain),18.0,Active,2026-09-25
+VEH-KA02-7729,Heavy Haulage,40.0,Maintenance,2026-10-02
+VEH-KA02-3109,Multi-Axle 32ft,25.0,Active,2026-09-10
+VEH-KA02-8812,20ft Container,16.0,Active,2026-09-27
+VEH-WB02-5541,Multi-Axle 32ft,25.0,Active,2026-09-14
+VEH-WB02-9902,40ft High Cube,30.0,Active,2026-09-20
+VEH-TN07-4412,Reefer (Cold Chain),18.0,Active,2026-09-24
+VEH-TN07-1290,Multi-Axle 32ft,25.0,Active,2026-09-16
+VEH-GJ01-8840,Multi-Axle 32ft,25.0,Active,2026-09-19
+VEH-TS09-3321,20ft Container,16.0,Active,2026-09-21
+VEH-TS09-7744,40ft High Cube,30.0,Active,2026-09-23

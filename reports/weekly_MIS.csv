@@ -1,0 +1,5 @@
+week,shipments,delivered,delayed,on_time_pct,freight_inr_lakhs,cost_inr_lakhs
+Week 1,520,471,49,90.6,29.4,9.1
+Week 2,574,523,51,91.1,32.8,10.2
+Week 3,612,551,61,90.0,35.1,11.0
+Week 4,641,589,52,91.9,37.2,11.4

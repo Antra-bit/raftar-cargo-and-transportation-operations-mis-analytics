@@ -1,0 +1,16 @@
+{
+    "report_title": "Raftaar Cargo - Operational Data Quality Report",
+    "timestamp": "2026-10-02 23:46:49",
+    "metrics": {
+        "Total Records": 34,
+        "Duplicate Records": 2,
+        "Missing Values": 0,
+        "Invalid Dates": 1,
+        "Invalid Freight (<= 0)": 2,
+        "Invalid Distance (<= 0)": 1,
+        "Referential Key Errors": 1,
+        "Valid Records": 30,
+        "Data Quality Score": 88.24
+    },
+    "status": "PASSED"
+}

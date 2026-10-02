@@ -1,0 +1,6 @@
+{
+  "name": "Raftar Cargo and Transportation Operations & MIS Analytics",
+  "description": "Enterprise logistics dashboard, real-time freight tracking, daily/weekly/monthly MIS reports, and VS Code data engineering architecture with Jupyter notebooks and scalable SQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,49 @@
+{
+    "report_type": "Monthly Executive Operations MIS",
+    "month_period": "September 2026 (Full Operational Cycle)",
+    "executive_summary": {
+        "Total Shipments": "2,347",
+        "Delivered": "2,128",
+        "Delayed": "219",
+        "On-Time Delivery %": "90.7%",
+        "Total Freight": "\u20b9 1.24 Cr",
+        "Operational Cost": "\u20b9 38.6 L",
+        "Net Operating Profit": "\u20b9 85.4 L",
+        "Operating Margin": "68.8%",
+        "Total Distance Covered": "1,428,900 KM",
+        "Average Cost per KM": "\u20b9 27.01",
+        "Average Turnaround Time": "2.6 Days"
+    },
+    "modal_split": {
+        "Full Truckload (FTL)": "58.4%",
+        "Less Than Truckload (LTL)": "26.2%",
+        "Express Cargo": "11.1%",
+        "Cold Chain": "4.3%"
+    },
+    "top_performing_routes": [
+        {
+            "route": "Delhi to Mumbai",
+            "volume": 412,
+            "otd_pct": 92.4,
+            "profitability": "High"
+        },
+        {
+            "route": "Mumbai to Bengaluru",
+            "volume": 368,
+            "otd_pct": 93.1,
+            "profitability": "High"
+        },
+        {
+            "route": "Delhi to Kolkata",
+            "volume": 294,
+            "otd_pct": 88.2,
+            "profitability": "Medium"
+        },
+        {
+            "route": "Bengaluru to Chennai",
+            "volume": 341,
+            "otd_pct": 95.6,
+            "profitability": "Very High"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "report_type": "Daily Operations MIS",
+    "date": "01 October 2026",
+    "generated_at": "2026-10-02 23:47:08",
+    "kpis": {
+        "Total Shipments": 148,
+        "Delivered": 126,
+        "In Transit": 14,
+        "Delayed": 8,
+        "Cancelled": 0,
+        "On-Time Delivery %": 89.4,
+        "Total Freight": "\u20b9 8.42 L",
+        "Average Delivery Time": "2.4 Days",
+        "Total Operational Cost": "\u20b9 2.65 L",
+        "Cost Per KM": "\u20b9 26.80"
+    },
+    "exception_summary": {
+        "delayed_shipments_count": 8,
+        "delayed_shipment_samples": [
+            "SHP-2026-0803",
+            "SHP-2026-0807",
+            "SHP-2026-0819",
+            "SHP-2026-0830",
+            "SHP-2026-0842"
+        ],
+        "vehicles_under_maintenance_count": 3,
+        "vehicles_under_maintenance": [
+            "VEH-DL01-3310",
+            "VEH-MH04-8921",
+            "VEH-KA02-7729"
+        ],
+        "sla_exceeded_deliveries": 5,
+        "operational_action_required": "Fleet reallocation dispatched on Delhi-Mumbai corridor due to NH48 congestion."
+    }
+}

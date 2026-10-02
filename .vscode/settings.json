@@ -1,0 +1,29 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+  "jupyter.notebookFileRoot": "${workspaceFolder}/notebooks",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+  "[sql]": {
+    "editor.defaultFormatter": "mtxr.sqltools"
+  },
+  "sqltools.connections": [
+    {
+      "name": "Raftar Logistics PostgreSQL Warehouse",
+      "adapter": "PostgreSQL",
+      "server": "localhost",
+      "port": 5432,
+      "database": "raftar_logistics_dw",
+      "username": "raftar_analyst"
+    }
+  ],
+  "files.associations": {
+    "*.sql": "sql",
+    "*.ipynb": "jupyter"
+  }
+}

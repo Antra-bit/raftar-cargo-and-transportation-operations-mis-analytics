@@ -1,0 +1,33 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Run Raftar ETL Pipeline",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/etl_pipeline.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}"
+      }
+    },
+    {
+      "name": "Python: Generate Daily/Weekly/Monthly MIS",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/generate_mis_reports.py",
+      "console": "integratedTerminal",
+      "args": ["--period", "daily", "--format", "json"],
+      "justMyCode": true
+    },
+    {
+      "name": "Full-Stack Dashboard Dev Server",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "kpi_1_total_shipments": 30,
+    "kpi_2_delivered_shipments": 19,
+    "kpi_3_delayed_shipments": 4,
+    "kpi_4_on_time_delivery_pct": 82.61,
+    "kpi_5_avg_delivery_time_days": 1.87,
+    "kpi_6_total_operational_cost": 469950.0,
+    "kpi_7_cost_per_shipment": 15665.0,
+    "kpi_8_cost_per_km": 15.26,
+    "in_transit_shipments": 7,
+    "cancelled_shipments": 0,
+    "total_freight_revenue": 1511700.0,
+    "net_operating_profit": 1041750.0,
+    "operating_margin_pct": 68.91,
+    "cost_breakdown": {
+        "fuel_cost": 351600.0,
+        "toll_cost": 56700.0,
+        "maintenance_cost": 39500.0,
+        "other_cost": 22150.0
+    }
+}
